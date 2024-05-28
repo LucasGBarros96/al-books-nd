@@ -2,7 +2,7 @@
 
 ## Projeto AlBooks Back-end
 
-<img src='https://imgur.com/a/fVEHpDM.png' alt='screenshot da aplicação' width='550px'/>
+<img src='https://imgur.com/a/fVEHpDM' alt='screenshot da aplicação' width='550px'/>
 
 Ao longo do projeto, desenvolvi uma API para gerenciar os livros do Alura Books. Essa API permite a busca de livros por identificação e listagem de todos os itens no banco de dados. A API também permite tarefas como inserir dados com POST, editar com PATCH e excluir com DELETE, todas as quais são testadas pelo Postman.
 
